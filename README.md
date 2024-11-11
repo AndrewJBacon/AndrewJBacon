@@ -30,8 +30,8 @@ I'm a career QA Engineer with a solid history of testing mobile and web-based ap
 
 #
 
-<details open>
+<details>
  <summary><h3>👨‍💻 Andrews Coding Journey</h3></summary>
 
-<br>I began my coding journey in my early teens by tinkering with DarkBASIC, trying to learn to make my own point-and-click adventure games. I have dabbled with Python in making text adventures, UnityScript, and C# via Unity 3D. All in all, I have always tinkered and been involved in technology and software in one way or another. Recently, I have really wanted to understand more, and rather than merely tinkering and hacking things together, I have decided to dedicate the time to pursue more robust knowledge and expand my toolbelt. This is not just for quality testing purposes but also to create my own digital experiences.
+<br>I began my coding journey in my early teens by tinkering with DarkBASIC, trying to learn to make my own point-and-click adventure games. I have dabbled with Python in making text adventures, UnityScript, and C# via Unity 3D. All in all, I have always explored and been involved in technology and software in one way or another. Recently, I have really wanted to understand more, and rather than merely hacking things together, I have decided to dedicate time to pursue more robust knowledge and expand my toolbelt. This is not just for quality testing purposes but also to create my own digital products.
 </details
