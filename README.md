@@ -1,6 +1,6 @@
 # 🧙🏼‍♂️ Andrew Bacon
 
-**`Digital Tinkerer (Quality Advocate/Maker/Aspiring Programmer)`**
+**`Digital Tinkerer (Quality Advocate/Maker/Aspiring Dev)`**
 
 I'm a QA Engineer with a solid history of testing mobile and web-based applications. During my tenure, I have had the pleasure of ensuring the quality of mobile apps such as, but not limited to, Bleacher Report Live, PGA Tour, and ConEd. I have also worked on web-based applications such as Tekmetric and Classical Conversations. From implementing automation via Cypress, or even low-code options such as Mabl, to working on my own React Native app for a board game I am developing, I am always trying to upskill, learn more, and push my development knowledge to the next level.
 
