@@ -7,7 +7,7 @@ I'm a QA Engineer with a solid history of testing mobile and web-based applicati
 ---
 
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools (Experience with and or Learning)
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
           
